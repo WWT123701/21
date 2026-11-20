@@ -221,3 +221,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C / C++ build artifacts (this project)
+*.exe
+*.o
+*.obj
+*.dll
+*.ilk
+*.pdb
+*.gch
+a.exe
+a.out
+
+# OS files
+.DS_Store
+Thumbs.db
